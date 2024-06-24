@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GouthamiN25
-- 👀 I’m interested in Software Technology 
-- 🌱 I’m currently learning Python-Data Science
-- 💞️ I’m looking for opportunities on Python programming Data Science 
-- 📫 How to reach me nadupurigouthami@gmail.com
+- 👀 I’m interested in playing with Data, a Data Enthusiast 
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking for opportunities like Data Science, Machine Learning
+- 📫 How to reach me nadupurigouthami@gmail.com/ +1(628)303-9693
 
 <!---
 GouthamiN25/GouthamiN25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
