@@ -1,4 +1,4 @@
-                                            #👋 Hello, I’m Gouthami Nadupuri
+                                            #Hello, I’m Gouthami Nadupuri
 
   ### About Me!
 
