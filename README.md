@@ -9,4 +9,6 @@ GouthamiN25/GouthamiN25 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-	![image](https://github.com/user-attachments/assets/f6c1a5d3-3ed3-436a-881f-3fab69aab128)
+# Connect with Me
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/gouthami-nadupuri)
+
