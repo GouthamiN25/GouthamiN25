@@ -1,7 +1,10 @@
                           👋 Hi, I’m @GouthamiN25
 
 ### About Me
- ![AI Learning](https://media.tenor.com/x8v1oNUOmg4AAAAC/artificial-intelligence-ai.gif)
+
+![Hi](https://raw.githubusercontent.com/username/repository/main/your-gif-name.gif)
+
+Hello! I'm passionate about data science, coding, and solving real-world problems!
 
 
  👀 I’m interested in playing with Data, a Data Enthusiast 
