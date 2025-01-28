@@ -157,3 +157,11 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
+### Skills and Tools
+
+| Languages     | Frameworks     | Databases         | Tools and Platforms      |
+|---------------|----------------|-------------------|--------------------------|
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) |
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![AWS](https://img.icons8.com/color/40/000000/amazon-web-services.png) |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/1/1f/Google_Cloud_Logo.svg) |
+
