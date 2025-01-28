@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/amazon-dynamodb.png" alt="Amazon DynamoDB" />
+    <img src="https://img.icons8.com/color/48/000000/amazon-dynamodb.png" alt="Amazon DynamoDB" width="40" height="40" />
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
@@ -156,97 +156,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Atlassian_logo.svg" alt="Atlassian" width="40" height="40" />
 </a>
 
-
-### Skills and Tools
-
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" />
-        <br>C++
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
-        <br>HTML5
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
-        <br>Java
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
-        <br>JavaScript
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.php.net/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" />
-        <br>PHP
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
-        <br>Python
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" />
-        <br>R
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://cloud.google.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Google_Cloud_Logo.svg" alt="Google Cloud" width="50" />
-        <br>Google Cloud
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" />
-        <br>AWS
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="50" />
-        <br>Django
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" />
-        <br>FastAPI
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" />
-        <br>Flask
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" />
-        <br>MongoDB
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://numpy.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" />
-        <br>NumPy
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" />
-        <br>Pandas
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" />
-        <br>Scikit-learn
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://plotly.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Plotly_logo_for_digital_property.png" alt="Plotly" width="50" />
-        <br>Plotly
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.atlassian.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Atlassian_logo.svg" alt="Atlassian" width="50" />
-        <br>Atlassian
-    </a>
-</p>
