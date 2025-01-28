@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @GouthamiN25
-- 👀 I’m interested in playing with Data, a Data Enthusiast 
-- 🌱 I’m currently studying Masters in Data Science in University of the Pacific
-- 💞️ I’m looking for opportunities in Machine Learning, Data Analytics, Data Science
-- 📫 How to reach me gouthaminadupuri25@gmail.com
+                    👋 Hi, I’m @GouthamiN25
+                    ### About Me
+
+![Working at a Desk](https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif)
+
+ 👀 I’m interested in playing with Data, a Data Enthusiast 
+ 🌱 I’m currently studying Masters in Data Science in University of the Pacific
+ 💞️ I’m looking for opportunities in Machine Learning, Data Analytics, Data Science
+ 📫 How to reach me gouthaminadupuri25@gmail.com
 
 <!---
 GouthamiN25/GouthamiN25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
