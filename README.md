@@ -10,5 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Connect with Me
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/gouthami-nadupuri)
+
+<a href="https://www.linkedin.com/in/gouthami-nadupuri-14726455/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="15" style="vertical-align:middle; margin-right:5px;">
+</a> Connect with me on LinkedIn
 
