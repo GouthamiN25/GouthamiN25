@@ -1,4 +1,8 @@
-                    👋 Hi, I’m @GouthamiN25
+                          👋 Hi, I’m @GouthamiN25
+
+### About Me
+ ![AI Learning](https://media.tenor.com/x8v1oNUOmg4AAAAC/artificial-intelligence-ai.gif)
+
 
  👀 I’m interested in playing with Data, a Data Enthusiast 
  🌱 I’m currently studying Masters in Data Science in University of the Pacific
