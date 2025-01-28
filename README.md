@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GouthamiN25
 - 👀 I’m interested in playing with Data, a Data Enthusiast 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking for opportunities in Data Science, Machine Learning
+- 🌱 I’m currently studying Masters in Data Science in University of the Pacific
+- 💞️ I’m looking for opportunities in Data Science, Machine Learning, Data Analytics
 - 📫 How to reach me gouthaminadupuri25@gmail.com/ +1(341)356-3732
 
 <!---
