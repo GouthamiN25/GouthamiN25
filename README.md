@@ -1,8 +1,7 @@
                           👋 Hi, I’m @GouthamiN25
 
 ### About Me!
-                 ![Description](https://link-to-your-hosted-image.png)
-
+                ![Hi Image](https://raw.githubusercontent.com/username/repository/branch/assets/smaller_image.png)
 
  👀 I’m interested in playing with Data, a Data Enthusiast 
  
