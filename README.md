@@ -1,12 +1,18 @@
                           👋 Hi, I’m @GouthamiN25
 
-### About Me
+### About Me!
 
-![image](https://github.com/user-attachments/assets/bae8610f-1e4f-4d51-a953-574c58643b1a)
+[smaller_image](https://github.com/user-attachments/assets/80442c0a-1e6a-4485-a8f9-7ef116de37b1)
+
+
+
 
  👀 I’m interested in playing with Data, a Data Enthusiast 
+ 
  🌱 I’m currently studying Masters in Data Science in University of the Pacific
+ 
  💞️ I’m looking for opportunities in Machine Learning, Data Analytics, Data Science
+ 
  📫 How to reach me gouthaminadupuri25@gmail.com
 
 <!---
