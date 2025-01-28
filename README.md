@@ -2,10 +2,7 @@
 
 ### About Me
 
-![Hi](https://raw.githubusercontent.com/username/repository/main/your-gif-name.gif)
-
-Hello! I'm passionate about data science, coding, and solving real-world problems!
-
+![image](https://github.com/user-attachments/assets/bae8610f-1e4f-4d51-a953-574c58643b1a)
 
  👀 I’m interested in playing with Data, a Data Enthusiast 
  🌱 I’m currently studying Masters in Data Science in University of the Pacific
