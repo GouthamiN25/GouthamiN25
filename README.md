@@ -1,7 +1,4 @@
                     👋 Hi, I’m @GouthamiN25
-                    ### About Me
-
-![Working at a Desk](https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif)
 
  👀 I’m interested in playing with Data, a Data Enthusiast 
  🌱 I’m currently studying Masters in Data Science in University of the Pacific
