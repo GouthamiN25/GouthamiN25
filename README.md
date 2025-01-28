@@ -118,7 +118,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/jira.png" alt="Jira" />
+<a href="https://www.atlassian.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Atlassian_logo.svg" alt="Atlassian" width="40" height="40" />
 </a>
+
 
