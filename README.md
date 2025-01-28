@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://raw.githubusercontent.com/username/repository/branch/assets/smaller_image.png" alt="Hi Image" width="200" style="margin-right: 20px;" />
+    ![Hi Image](https://raw.githubusercontent.com/username/repository/branch/assets/smaller_image.png)
   </div>
   <div>
     <h2>👋 Hi, I’m @GouthamiN25</h2>
