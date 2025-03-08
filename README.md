@@ -110,10 +110,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
 </a>
 
-<a href="https://neo4j.com/" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/neo4j.png" alt="Neo4j" />
-</a>
-
 <a href="https://singlestore.com/" target="_blank">
     <img src="https://img.icons8.com/fluency/40/null/database.png" alt="SingleStore" />
 </a>
@@ -136,10 +132,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40" />
-</a>
-
-<a href="https://plotly.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Plotly_logo_for_digital_property.png" alt="Plotly" width="40" height="40" />
 </a>
 
 <a href="https://pytorch.org/" target="_blank">
