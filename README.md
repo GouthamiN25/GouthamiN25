@@ -42,10 +42,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </a>
 
-<a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-</a>
-
 <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </a>
@@ -88,10 +84,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.anaconda.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" />
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40" />
 </a>
 
 <a href="https://fastapi.tiangolo.com/" target="_blank">
@@ -161,8 +153,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </a>
-
-<a href="https://www.atlassian.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Atlassian_logo.svg" alt="Atlassian" width="40" height="40" />
-</a>
-
