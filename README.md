@@ -80,12 +80,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
 </a>
 
-
-<a href="https://cloud.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Google_Cloud_Logo.svg" alt="Google Cloud" width="40" height="40" />
-</a>
-
-
 <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" alt="AWS" />
 </a>
@@ -124,12 +118,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
 </a>
-
-
-<a href="https://singlestore.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/40/null/database.png" alt="SingleStore" />
-</a>
-
 
 <a href="https://matplotlib.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
