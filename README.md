@@ -85,11 +85,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-<a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/cloudflare.png" alt="Cloudflare" />
-</a>
-
-
 <a href="https://www.anaconda.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" />
 </a>
@@ -102,11 +97,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-</a>
-
-
-<a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
 </a>
 
 
