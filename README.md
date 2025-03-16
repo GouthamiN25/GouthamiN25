@@ -3,6 +3,11 @@
   ### About Me!
 
 
+![output](https://github.com/user-attachments/assets/9c06a034-e61e-417b-9d87-9ee5d8b6e8f5)
+
+
+
+  
 ![smaller_image](https://github.com/user-attachments/assets/a6986db9-0b6a-4998-8aa2-c7681512ea2f)
 
 
