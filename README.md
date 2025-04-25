@@ -31,12 +31,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
 </a>
 
-
-<a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-</a>
-
-
 <a href="https://www.javascript.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </a>
@@ -51,21 +45,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" />
 </a>
 
-
-<a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/000000/console.png" alt="Shell Script" />
-</a>
-
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
 </a>
-
-
-<a href="https://www.oracle.com/" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/oracle-logo.png" alt="Oracle" />
-</a>
-
 
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
@@ -80,12 +62,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" alt="AWS" />
 </a>
 
-
-<a href="https://www.anaconda.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" />
-</a>
-
-
 <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40" />
 </a>
@@ -98,11 +74,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://sqlite.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
-</a>
-
-
-<a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
 </a>
 
 <a href="https://matplotlib.org/" target="_blank">
