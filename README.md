@@ -1,6 +1,6 @@
  # 👋🏻Hello, I’m Gouthami Nadupuri
 
-  ### About Me!
+  ### 💫 About Me!
   
 ![smaller_image](https://github.com/user-attachments/assets/a6986db9-0b6a-4998-8aa2-c7681512ea2f)
 
