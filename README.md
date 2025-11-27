@@ -119,6 +119,3 @@ You can click the Preview link to take a look at your changes.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamiN25&layout=compact&theme=radical)
 
 
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=GouthamiN25&theme=tokyonight)
-
