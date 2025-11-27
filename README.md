@@ -120,9 +120,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com/?user=GouthamiN25&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=GouthamiN25&theme=tokyonight)
 
-
-
-## 📈 Contributor Metrics (Optional)
-![Metrics](https://github.com/GouthamiN25/GouthamiN25/blob/main/github-metrics.svg)
