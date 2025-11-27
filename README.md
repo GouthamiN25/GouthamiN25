@@ -118,11 +118,11 @@ You can click the Preview link to take a look at your changes.
 ## 🔥 Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamiN25&layout=compact&theme=radical)
 
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com/?user=GouthamiN25&theme=radical)
 
-## 🏆 GitHub Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=GouthamiN25&theme=radical)
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com/?user=GouthamiN25&theme=tokyonight&hide_border=true)
+
+
 
 ## 📈 Contributor Metrics (Optional)
 ![Metrics](https://github.com/GouthamiN25/GouthamiN25/blob/main/github-metrics.svg)
