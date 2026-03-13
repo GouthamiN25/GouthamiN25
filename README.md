@@ -13,7 +13,6 @@
  
  📫 How to reach me gouthaminadupuri25@gmail.com
 
-🚀 Portfolio: [https://gouthamin25.github.io/](https://gouthamin25.github.io/GouthamiNadupuri/)
 
 <!---
 GouthamiN25/GouthamiN25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
